@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/static/js/main.3d286b02.js",
+    "static/media/face_머엉.svg": "/static/media/face_머엉.8d229241d9d68745a954070d43c28c10.svg",
+    "static/media/face_깜찍.svg": "/static/media/face_깜찍.41eec4bbe666565d98948c89256cf9d2.svg",
+    "static/media/face_수줍.svg": "/static/media/face_수줍.3071a91c0a5b69b4d57608f085561a43.svg",
+    "static/media/face_신남.svg": "/static/media/face_신남.9b6347ab418111774d4c4219deefceea.svg",
+    "static/media/face_여유.svg": "/static/media/face_여유.0bd767407862ed0069427d314fa1ade7.svg",
+    "static/media/face_미소.svg": "/static/media/face_미소.dc3d2d994b41cd3b3f4d7c880eec5acb.svg",
+    "static/media/face_당황.svg": "/static/media/face_당황.4d8755e78fdb5964dcf1fe7e909afef0.svg",
+    "static/media/face_슬픔.svg": "/static/media/face_슬픔.7cc11d8c25e55d8816a6b9afd645115c.svg",
+    "static/media/face_웃음.svg": "/static/media/face_웃음.c726586514917a510f6e41e78a13050c.svg",
+    "static/media/face_썩소.svg": "/static/media/face_썩소.f383c5edddbf3e97bc9ea12d543aa777.svg",
+    "index.html": "/index.html",
+    "main.3d286b02.js.map": "/static/js/main.3d286b02.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3d286b02.js"
+  ]
+}

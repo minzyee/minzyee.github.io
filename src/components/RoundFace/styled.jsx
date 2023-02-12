@@ -1,6 +1,33 @@
 import styled, { css } from "styled-components";
 import themeColor from "../../commons/style/themes/default";
 
+export const EmojiSpace = styled.div`
+	/* position: relative; */
+	position: fixed;
+	width: 100%;
+	height: 100vh;
+`;
+
+export const RoundImoji = styled.div`
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	animation: bounceEmoji 0.8s ease-in Infinite Alternate;
+
+	@keyframes bounceEmoji {
+		from {
+			transform: rotateX(5deg);
+			top: 0px;
+		}
+
+		to {
+			/* transform: translateY(20px); */
+			transform: rotateY(10deg);
+			top: 20px;
+		}
+	}
+`;
+
 export const Round = styled.div`
 	/* 이거 안적어줘도 되네,,? */
 	/* width: ${(props) => props.width}; */
